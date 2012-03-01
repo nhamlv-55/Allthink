@@ -1,0 +1,24 @@
+#nav {
+    float: right;
+}
+
+body {
+    background-color: #d0e4fe;
+}
+h1 {
+    color:teal;
+    text-align:center;
+}
+p.main_page_content {
+    font-family: Verdana;
+    text-align: center;
+}
+a {
+    font-family: Verdana;
+}
+form {
+    font-family: Verdana;
+}
+input {
+    display: block;
+}
